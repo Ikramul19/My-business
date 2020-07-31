@@ -1,0 +1,36 @@
+body {
+  background: #333;
+  color: #fff; }
+
+.navbar {
+    border-bottom: 3px solid #008ed6;
+    background: #292b2c;
+    opacity: 0.7;
+}
+#home-section .card{ ;opacity: .8;}
+#home-section{
+    background: url(/img/desk.jpeg)no-repeat center top;min-height: 700px;background-size: cover;
+    background-attachment: fixed
+    
+    
+}
+.dark-overly{
+        background: rgba(0,0,0,0.7);min-height: 700px;background-size: cover;
+    }
+#home-section .fa{color: #007BFF;padding: 4px;background-color: #fff;border-radius: 5px;font-size: 30px}
+
+#home-section {
+    background-image: url('../img/desk.jpeg');background-size: cover;min-height: 700px
+}
+.home-inner{padding-top: 150px;padding-bottom: 50px}
+
+@media(max-width: 768px) {
+  #home-section h1 {font-size: 36px;}
+ 
+}
+#explore-mail-section .fa{color: #fff;padding: 4px;background-color: #333;border-radius: 5px;font-size:30px; }
+#explore-mail-section{min-height: 520px}
+
+#create-mail-section .fa{color: #007BFF;padding: 4px;background-color: #fff;border-radius: 5px;font-size: 30px}
+
+#footer-section .fa{color: #fff;padding: 3px 2px 0px 7px;background-color: #5576BA;border-radius: px;font-size:15px; margin-left: 9px}
